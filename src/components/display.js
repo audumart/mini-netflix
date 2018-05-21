@@ -18,6 +18,7 @@ class Display extends Component {
 
         </div>
       </div>
-        )
+        );
     }
 }
+export default Display;
